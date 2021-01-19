@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 6,
+        "description": "§a粵語中文資源包\n§3版本 v1.0.0"
+    },
+    "language": {
+        "zh_hk": {
+            "name": "粵語中文",
+            "region": "香港",
+            "bidirectional": "false"
+        }
+    },
+    "author": [
+        "command_music"
+    ],
+    "home": "https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack"
+}
